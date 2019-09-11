@@ -59,4 +59,4 @@ buck-out/
 /ios/Pods/
 
 # Project exclude paths
-/dist/
+#/dist/
