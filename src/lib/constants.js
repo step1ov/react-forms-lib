@@ -1,0 +1,1 @@
+export const DEFAULT_INPUT_ID_PREFIX = "input_";

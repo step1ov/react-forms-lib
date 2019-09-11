@@ -1,0 +1,25 @@
+---- Components ----
+1. [ ] Radio
+2. [ ] Custom Bootstrap Inputs
+3. [ ] Password with show button
+4. [ ] Range with 2 inputs
+5. [ ] Date with calendar
+6. [ ] Dropdown
+7. [ ] Multiple Checkbox
+8. [ ] Array of inputs
+9. [ ] Nested inputs
+10.[ ] Append / prepend
+11.[ ] Text editor (TinyMCE or Draft.js, ex. react-rte)
+12.[+] Image
+
+---- Form ----
+1. [ ] Validate when readonly
+2. [+] Clear api (not tested)
+4. [-] Editable (use state instead)
+5. [+] Modal
+6. [+] Table
+8. [ ] Inline form
+10.[+] Buttons (save, cancel, clear)
+11.[+] Custom Buttons
+12.[ ] Auto validate when not empty (or when edited)
+13.[ ] Validation with validate.js
